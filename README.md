@@ -2,10 +2,13 @@
 Nodejs package for opewrt
 
 Usage: 
+
 [1] copy whole package into openwrt_trunk/package/utils folder.
+
 [2] make menuconfig 
 		Utilities
 			-->nodejs
+			
 [3] make V=s
 
 ***Notice***
