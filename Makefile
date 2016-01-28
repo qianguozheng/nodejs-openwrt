@@ -40,7 +40,7 @@ endef
 #	#$(CP) ./src/* $(PKG_BUILD_DIR)/
 #endef
 CONFIGURE_ARGS= \
-	--dest-cpu=mipsel \
+	--dest-cpu=$(ARCH) \
 	--dest-os=linux \
 	--without-snapshot \
 	--without-npm 
