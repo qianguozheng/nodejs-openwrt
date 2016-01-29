@@ -1,5 +1,5 @@
 # nodejs-openwrt
-Nodejs package for opewrt
+Nodejs package for openwrt
 
 Usage: 
 
